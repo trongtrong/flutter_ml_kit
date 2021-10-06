@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764430617581",
+    "project_id": "flutterml9pay",
+    "storage_bucket": "flutterml9pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764430617581:android:94e64f41d9e0440634b5e4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ml_9pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764430617581-gu71qdlsvdbo34mdgdu011p52t21go9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemtNRzBhD3n8LTJTwVSHXpEkodWH0O-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764430617581-gu71qdlsvdbo34mdgdu011p52t21go9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
